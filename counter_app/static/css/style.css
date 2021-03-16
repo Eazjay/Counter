@@ -1,0 +1,16 @@
+
+.container{
+    margin: 50px auto;
+    padding: 20px;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px 4px #3F7FBF;
+    font-size: 40px;
+}
+
+button{
+    box-shadow: 3px 3px grey;
+    color: whitesmoke;
+}
